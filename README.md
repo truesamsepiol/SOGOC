@@ -3,3 +3,12 @@ Un script qui permet de connaitre le nombre de personne inscrite et le nombre de
 
 # Usage 
 	/bin/sh main.sh <fichiers.csv>
+
+# Autor 
+	true.samsepiol
+
+# email
+	true.samsepiol@gmail.com
+
+# Date
+	fait à Youandé le 28/09/2023

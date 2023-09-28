@@ -11,4 +11,4 @@ Un script qui permet de connaitre le nombre de personne inscrite et le nombre de
 	true.samsepiol@gmail.com
 
 # Date
-	fait à Youandé le 28/09/2023
+	fait à Yaoundé le 28/09/2023
